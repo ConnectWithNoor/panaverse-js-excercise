@@ -23,8 +23,11 @@ const makeGreat = (magiciansList) => {
     const phrase = `The great ${magiciansList[i]}`;
     greatMagicians.push(phrase);
   }
+
+  return greatMagicians;
 };
 
-makeGreat(magicians);
+const greatMagiciansList = makeGreat(magicians);
 
 console.log(magicians);
+console.log(greatMagiciansList);

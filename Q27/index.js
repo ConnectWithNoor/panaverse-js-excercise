@@ -11,5 +11,5 @@ if (alienColor === 'green') {
   console.log("You've earned 10 juicy points");
 } else if (alienColor === 'red') {
   points += 15;
-  console.log("You've earned 15 juicy points");
+  console.log("You've earned 15 juicy points.");
 }

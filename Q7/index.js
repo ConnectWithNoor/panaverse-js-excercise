@@ -1,5 +1,5 @@
 const addition = 4 + 4;
-const substraction = 8 - 4;
+const substraction = 12 - 4;
 const multiplication = 4 * 2;
 const division = 16 / 2;
 

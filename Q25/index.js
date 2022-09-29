@@ -7,5 +7,4 @@ if (alienColor === 'green') {
   points += 5;
   console.log("You've earned 5 juicy points");
 } else {
-  console.log('Oops, The alien color is', alienColor, 'Better luck next time.');
 }

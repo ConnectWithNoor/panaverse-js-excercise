@@ -1,5 +1,3 @@
-const quote =
-  'Kindness is one thing you can’t give away. It always comes back.';
-const author = 'George Skolsky';
+const quote = `George Skolsky once said, "Kindness is one thing you can’t give away. It always comes back."`;
 
-console.log(`${author} once said, “${quote}”`);
+console.log(quote);
